@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: #264653;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.header-p{
+    font-weight: 300;
+    color: #FFFFFF;
+}
+.honda-title{
+    font-weight: 600;
+}
+.honda-desc{
+    color:#E0E0E0;
+}
+.btn{
+    background-color: #E76F51;
+}
+
+/* happy clients section  */
+
+.clients-heading{
+    font-weight: 600;
+    font-size: 48px;
+}
+.best-bike-heading{
+    color: #E76F51;
+}
+
+.span{
+    color: #E76F51;
+}
